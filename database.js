@@ -60,7 +60,8 @@
 			}
 			
 			if(name.length>7 || name.indexOf('aa') != -1 || name.indexOf('eee') != -1 || name.indexOf('ii') != -1 || name.indexOf('lld') != -1 || name.indexOf('nnn') != -1 || name.indexOf('mmm') != -1 ||
-			   name.indexOf('ssv') != -1 || name.indexOf('ssnk') != -1 || name.indexOf('knk') != -1 || name.indexOf('eaea') != -1 || name.indexOf('Chrm') != -1 || name.indexOf('lln') != -1 || name.indexOf('aen') != -1)
+			   name.indexOf('ssv') != -1 || name.indexOf('ssnk') != -1 || name.indexOf('knk') != -1 || name.indexOf('eaea') != -1 || name.indexOf('Chrm') != -1 || name.indexOf('lln') != -1 ||
+			   name.indexOf('aen') != -1 || name.indexOf('nthl') != -1 || name.indexOf('Chrn') != -1 || name.indexOf('nthdr') != -1 || name.indexOf('vv') != -1 || name.indexOf('ioi') != -1)
 			{
 				generator();
 				return;
